@@ -2,3 +2,4 @@
 2. 変更を加えてみる
 3. .git add
    ・git commit
+   ・git remove

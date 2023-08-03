@@ -1,2 +1,4 @@
 1. Gitの練習
 2. 変更を加えてみる
+3. .git add
+   ・git commit
